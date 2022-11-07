@@ -4,6 +4,15 @@
 var proxy = "PROXY 127.0.0.1:10809;";
 
 var rules = [
+  "||edclub.com/",
+  "||v2free.org/",
+  "||v2ex.com/",
+  "||github.com/",
+  "||voice.google.com",
+  "||z-lib.org/",
+  "||zh.singlelogin.app/",
+  "||zh.book4you.org/",
+  "|http://85.17.73.31/",
   "|http://85.17.73.31/",
   "||agnesb.fr",
   "||akiba-web.com",
